@@ -1,5 +1,8 @@
 1.1.1.1:443#移动专用三网自测
-23.141.4.61:443#HK1-Telescope Communications 112.35 Mbps
-103.26.8.186:443#SG1-Ipxo 167.11 Mbps
+136.0.110.102:443#MY1 127.21 Mbps
+47.250.173.51:443#MY2-Alibaba Cloud 119.57 Mbps
+38.211.230.156:443#MY3-Cogent Communications 114.18 Mbps
+198.20.153.136:443#MY4-Ace Data Centers Ii, L.l.c. 111.29 Mbps
+205.186.67.17:443#MY5-Ace Data Centers Ii, L.l.c. 107.90 Mbps
 saas.sin.fan:443#MIYU
 cu.877774.xyz:443#CMLiu
