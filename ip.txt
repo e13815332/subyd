@@ -1,38 +1,13 @@
 1.1.1.1:443#移动专用三网自测
-47.239.95.133:443#HK1-Alibaba Cloud 268.92 Mbps
-208.66.228.194:443#HK2-Smith 264.34 Mbps
-154.12.188.197:443#HK3-African Network Information Center (afrinic) 253.49 Mbps
-154.12.188.213:443#HK4-African Network Information Center (afrinic) 250.28 Mbps
-43.99.53.98:443#HK5-Alibaba Cloud (singapore) Private 240.24 Mbps
-43.159.4.80:443#SG1-Acevillepteltd Sg 296.13 Mbps
-43.159.4.192:443#SG2-Acevillepteltd Sg 286.12 Mbps
-43.159.12.89:443#SG3-Acevillepteltd Sg 281.60 Mbps
-43.159.5.172:443#SG4-Acevillepteltd Sg 280.91 Mbps
-43.159.5.161:443#SG5-Acevillepteltd Sg 279.52 Mbps
-154.31.117.200:443#JP1-African Network Information Center (afrinic) 257.91 Mbps
-103.117.103.29:443#JP2-Us Dmitinc 253.93 Mbps
-5.34.222.228:443#JP3-Akari Networks 247.55 Mbps
-47.245.28.219:443#JP4-Alibaba Cloud 236.54 Mbps
-8.212.20.128:443#JP5-Alibaba Cloud (singapore) Private 227.93 Mbps
-75.2.79.84:443#US1-Amazon.com 190.00 Mbps
-15.197.162.87:443#US2-Amazon Technologies 188.46 Mbps
-47.93.235.180:443#US3-Alisoft 182.90 Mbps
-47.93.236.249:443#US4-Alisoft 179.24 Mbps
-76.223.33.155:443#US5-Amazon.com 178.00 Mbps
-188.95.70.102:443#DE1-Xtom Gmbh 134.82 Mbps
-178.22.26.54:443#DE2-Xtom Gmbh 134.45 Mbps
-45.147.48.28:443#DE3-Xtom Gmbh 130.42 Mbps
-31.25.88.11:443#DE4-Kirino 124.50 Mbps
-8.209.108.3:443#DE5-Alicloud De 120.96 Mbps
-54.180.233.241:443#KR1-Amazon Technologies 241.21 Mbps
-43.202.49.250:443#KR2-Amazon.com 195.48 Mbps
-211.75.210.33:443#TW1-Hinet Net 168.88 Mbps
-60.249.21.30:443#TW2-Hinet Net 164.79 Mbps
-60.249.21.29:443#TW3-Hinet Net 161.81 Mbps
-43.164.191.51:443#KR3-Acevillepteltd Sg 158.15 Mbps
-211.75.210.32:443#TW4-Hinet Net 155.22 Mbps
-168.107.1.207:443#KR4-Oracle Corporation 154.03 Mbps
-168.107.53.124:443#KR5-Oracle Corporation 142.37 Mbps
-211.22.180.127:443#TW5-Hinet Net 110.38 Mbps
+47.93.235.180:443#US1-Alisoft 177.93 Mbps
+47.93.236.249:443#US2-Alisoft 170.07 Mbps
+101.132.167.190:443#US3-Alisoft 136.89 Mbps
+106.15.124.10:443#US4-Alisoft 135.22 Mbps
+106.14.32.23:443#US5-Alisoft 131.42 Mbps
+178.22.26.54:443#DE1-Xtom Gmbh 143.55 Mbps
+88.218.193.25:443#DE2-Xtom 131.12 Mbps
+188.95.70.102:443#DE3-Xtom Gmbh 129.30 Mbps
+45.147.49.244:443#DE4-Xtom Gmbh 124.72 Mbps
+188.95.70.211:443#DE5-Xtom Gmbh 120.05 Mbps
 saas.sin.fan:443#MIYU
 cu.877774.xyz:443#CMLiu
