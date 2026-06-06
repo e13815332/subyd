@@ -10,4 +10,4 @@
 45.147.49.244:443#DE4-Xtom Gmbh 124.72 Mbps
 188.95.70.211:443#DE5-Xtom Gmbh 120.05 Mbps
 saas.sin.fan:443#MIYU
-cu.877774.xyz:443#CMLiu
+youxuan.cf.090227.xyz:443#CMLiu
