@@ -1,15 +1,38 @@
 1.1.1.1:443#移动专用三网自测
-103.26.8.186:443#SG1-GoMami Networks 172.42 Mbps
-103.112.1.131:443#JP1-GoMami Networks 192.85 Mbps
-47.93.236.249:443#US1-Alibaba Advertising 174.12 Mbps
-47.93.235.180:443#US2-Alibaba Advertising 167.46 Mbps
-101.132.167.190:443#US3-Alibaba Advertising 137.32 Mbps
-106.15.124.10:443#US4-Alibaba Advertising 133.48 Mbps
-106.14.32.23:443#US5-Alibaba Advertising 131.43 Mbps
-31.25.88.11:443#DE1-Kirino LLC 134.16 Mbps
-88.218.193.25:443#DE2-xTom GmbH 126.99 Mbps
-188.95.70.102:443#DE3-xTom GmbH 125.50 Mbps
-178.22.26.54:443#DE4-xTom GmbH 125.25 Mbps
-188.95.70.211:443#DE5-xTom GmbH 124.91 Mbps
+154.12.188.213:443#HK1-DMIT Cloud Services 205.23 Mbps
+45.78.44.248:443#HK2-IT7 Networks Inc 188.66 Mbps
+202.85.76.75:443#HK3-PAN-LIAN TECHNOLOGY CO., LIMITED 176.07 Mbps
+47.239.95.133:443#HK4-Alibaba (US) Technology Co., Ltd. 172.50 Mbps
+47.76.179.96:443#HK5-Alibaba (US) Technology Co., Ltd. 154.96 Mbps
+43.159.4.240:443#SG1-Tencent Building, Kejizhongyi Avenue 282.29 Mbps
+43.159.12.248:443#SG2-Tencent Building, Kejizhongyi Avenue 278.74 Mbps
+43.159.11.249:443#SG3-Tencent Building, Kejizhongyi Avenue 272.83 Mbps
+43.159.5.8:443#SG4-Tencent Building, Kejizhongyi Avenue 272.68 Mbps
+43.159.4.217:443#SG5-Tencent Building, Kejizhongyi Avenue 272.65 Mbps
+47.245.13.108:443#JP1-Alibaba (US) Technology Co., Ltd. 259.85 Mbps
+47.79.145.54:443#JP2-Alibaba (US) Technology Co., Ltd. 243.97 Mbps
+87.83.100.1:443#JP3-SAKURA LINK LIMITED 231.46 Mbps
+8.212.20.128:443#JP4-Alibaba (US) Technology Co., Ltd. 227.10 Mbps
+3.115.50.101:443#JP5-Amazon.com, Inc. 225.57 Mbps
+104.199.207.198:443#TW1-Google LLC 197.81 Mbps
+104.155.208.146:443#TW2-Google LLC 180.03 Mbps
+140.235.39.192:443#TW3-ByteVirt LLC 157.17 Mbps
+60.249.21.30:443#TW4-Data Communication Business Group 154.97 Mbps
+211.75.210.33:443#TW5-Data Communication Business Group 153.36 Mbps
+152.69.229.110:443#KR1-Oracle Corporation 133.79 Mbps
+43.164.191.51:443#KR2-Tencent Building, Kejizhongyi Avenue 132.56 Mbps
+168.107.62.215:443#KR3-Oracle Corporation 119.06 Mbps
+158.180.71.69:443#KR4-Oracle Corporation 117.86 Mbps
+144.24.64.178:443#KR5-Oracle Corporation 116.02 Mbps
+47.93.236.249:443#US1-Hangzhou Alibaba Advertising Co.,Ltd. 171.87 Mbps
+47.93.235.180:443#US2-Hangzhou Alibaba Advertising Co.,Ltd. 165.06 Mbps
+101.132.167.190:443#US3-Hangzhou Alibaba Advertising Co.,Ltd. 134.64 Mbps
+106.14.32.23:443#US4-Hangzhou Alibaba Advertising Co.,Ltd. 131.30 Mbps
+106.15.124.10:443#US5-Hangzhou Alibaba Advertising Co.,Ltd. 131.22 Mbps
+31.25.88.206:443#DE1-Kirino LLC 155.26 Mbps
+31.25.88.11:443#DE2-Kirino LLC 148.94 Mbps
+178.22.26.54:443#DE3-xTom GmbH 132.41 Mbps
+45.147.49.244:443#DE4-xTom GmbH 130.04 Mbps
+188.95.70.102:443#DE5-xTom GmbH 128.34 Mbps
 saas.sin.fan:443#MIYU
 youxuan.cf.090227.xyz:443#CMLiu
