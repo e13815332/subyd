@@ -2,7 +2,6 @@
 154.12.188.213:443#HK1-DMIT Cloud Services 205.23 Mbps
 45.78.44.248:443#HK2-IT7 Networks Inc 188.66 Mbps
 202.85.76.75:443#HK3-PAN-LIAN TECHNOLOGY CO., LIMITED 176.07 Mbps
-47.239.95.133:443#HK4-Alibaba (US) Technology Co., Ltd. 172.50 Mbps
 47.76.179.96:443#HK5-Alibaba (US) Technology Co., Ltd. 154.96 Mbps
 43.159.4.240:443#SG1-Tencent Building, Kejizhongyi Avenue 282.29 Mbps
 43.159.12.248:443#SG2-Tencent Building, Kejizhongyi Avenue 278.74 Mbps
