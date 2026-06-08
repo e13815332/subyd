@@ -32,4 +32,3 @@
 188.95.70.102:443#DE5-xTom GmbH 128.34 Mbps
 saas.sin.fan:443#MIYU
 youxuan.cf.090227.xyz:443#CMLiu
-64.186.250.65:42146#US-DMIT Cloud Services
