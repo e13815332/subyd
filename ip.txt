@@ -1,13 +1,28 @@
 1.1.1.1:443#移动专用三网自测
-47.93.235.180:443#US1-Hangzhou Alibaba Advertising Co.,Ltd. 164.04 Mbps
-47.93.236.249:443#US2-Hangzhou Alibaba Advertising Co.,Ltd. 158.13 Mbps
-106.15.124.10:443#US3-Hangzhou Alibaba Advertising Co.,Ltd. 133.70 Mbps
-101.132.167.190:443#US4-Hangzhou Alibaba Advertising Co.,Ltd. 133.43 Mbps
-106.14.32.23:443#US5-Hangzhou Alibaba Advertising Co.,Ltd. 128.20 Mbps
-178.22.26.54:443#DE1-xTom GmbH 143.88 Mbps
-88.218.193.25:443#DE2-xTom GmbH 136.20 Mbps
-188.95.70.102:443#DE3-xTom GmbH 135.40 Mbps
-45.147.48.28:443#DE4-xTom GmbH 134.92 Mbps
-31.25.88.11:443#DE5-Kirino LLC 129.77 Mbps
+38.47.96.72:443#JP1-VMISS Inc. 179.66 Mbps
+47.93.236.249:443#US1-Hangzhou Alibaba Advertising Co.,Ltd. 174.79 Mbps
+47.93.235.180:443#US2-Hangzhou Alibaba Advertising Co.,Ltd. 168.19 Mbps
+45.143.234.164:443#JP2-xTom Japan Corporation 153.03 Mbps
+185.200.64.104:443#JP3-xTom Japan Corporation 136.96 Mbps
+106.15.124.10:443#US3-Hangzhou Alibaba Advertising Co.,Ltd. 136.66 Mbps
+106.14.32.23:443#US4-Hangzhou Alibaba Advertising Co.,Ltd. 132.73 Mbps
+8.209.249.184:443#JP4-Alibaba (US) Technology Co., Ltd. 132.68 Mbps
+101.132.167.190:443#US5-Hangzhou Alibaba Advertising Co.,Ltd. 131.65 Mbps
+103.100.158.202:443#JP5-Nearoute Limited 130.76 Mbps
+35.78.114.222:443#JP6-Amazon.com, Inc. 130.43 Mbps
+47.94.100.139:443#US6-Hangzhou Alibaba Advertising Co.,Ltd. 124.86 Mbps
+195.172.137.196:443#SG1-CYBERJET PTE. LTD. 120.82 Mbps
+185.200.64.56:443#JP7-xTom Japan Corporation 115.37 Mbps
+167.88.186.32:443#JP8-VMISS Inc. 115.27 Mbps
+45.129.8.76:443#JP9-xTom Japan Corporation 114.76 Mbps
+43.160.197.205:443#SG2-Tencent Building, Kejizhongyi Avenue 114.07 Mbps
+96.126.130.217:443#JP10-Evoxt Sdn. Bhd. 111.02 Mbps
+104.250.118.57:443#SG3-Onidel Pty Ltd 104.54 Mbps
+38.47.110.63:443#JP11-VMISS Inc. 104.35 Mbps
+43.160.253.225:443#SG4-Tencent Building, Kejizhongyi Avenue 101.75 Mbps
+23.249.17.25:443#JP12-Prime Security Corp. 101.40 Mbps
+168.107.1.207:443#KR1-Oracle Corporation 100.33 Mbps
+163.5.205.89:443#HK1-Liberally Network LLC
+38.47.111.11:443#JP13-VMISS Inc.
 saas.sin.fan:443#MIYU
 youxuan.cf.090227.xyz:443#CMLiu
