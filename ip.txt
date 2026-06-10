@@ -9,7 +9,6 @@
 142.248.137.22:443#JP2-JT TELECOM INTERNATIONAL PTE.LTD. 137.07 Mbps
 172.104.120.92:443#JP3-Akamai Connected Cloud 133.44 Mbps
 13.193.106.143:443#JP4-Amazon.com, Inc. 110.82 Mbps
-13.114.169.120:443#JP5-Amazon.com, Inc. 108.83 Mbps
 43.164.191.51:443#KR1-Tencent Building, Kejizhongyi Avenue 153.28 Mbps
 152.69.229.110:443#KR2-Oracle Corporation 111.58 Mbps
 168.107.1.207:443#KR3-Oracle Corporation 106.14 Mbps
