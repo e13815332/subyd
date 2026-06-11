@@ -1,1 +1,1 @@
-{"id":"20260609","message":"节点排序逻辑更改，以后根据带宽综合排名排序。不再限制每个国家固定5个节点。"}
+{"id":"20260611","message":"激活服务器已迁移至 Cloudflare，v1.5.8 以前版本将无法激活。请尽快升级：https://github.com/e13815332/subyd/releases/tag/zclash-v1.5.8"}
