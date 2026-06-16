@@ -9,7 +9,6 @@
 43.159.5.182:443#SG3-Tencent Building, Kejizhongyi Avenue 306.80 Mbps
 43.159.0.82:443#SG4-Tencent Building, Kejizhongyi Avenue 296.64 Mbps
 43.159.5.25:443#SG5-Tencent Building, Kejizhongyi Avenue 292.24 Mbps
-47.245.28.219:443#JP1-Alibaba (US) Technology Co., Ltd. 250.70 Mbps
 47.79.145.54:443#JP2-Alibaba (US) Technology Co., Ltd. 250.42 Mbps
 45.192.196.169:443#JP3-ACCK LLC 245.03 Mbps
 8.212.13.68:443#JP4-Alibaba (US) Technology Co., Ltd. 240.08 Mbps
