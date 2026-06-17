@@ -1,5 +1,4 @@
 1.1.1.1:443#移动专用三网自测
-163.5.58.140:443#HK1-VH Global Limited 226.52 Mbps
 103.224.80.116:443#HK2-XNNET LLC 225.96 Mbps
 18.163.218.170:443#HK3-Amazon.com, Inc. 219.49 Mbps
 82.158.91.108:443#HK4-cognetcloud INC 212.53 Mbps
