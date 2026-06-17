@@ -3,7 +3,6 @@
 18.163.218.170:443#HK3-Amazon.com, Inc. 219.49 Mbps
 82.158.91.108:443#HK4-cognetcloud INC 212.53 Mbps
 43.159.12.248:443#SG1-Tencent Building, Kejizhongyi Avenue 309.93 Mbps
-43.159.4.240:443#SG2-Tencent Building, Kejizhongyi Avenue 307.30 Mbps
 43.159.5.182:443#SG3-Tencent Building, Kejizhongyi Avenue 306.80 Mbps
 43.159.0.82:443#SG4-Tencent Building, Kejizhongyi Avenue 296.64 Mbps
 43.159.5.25:443#SG5-Tencent Building, Kejizhongyi Avenue 292.24 Mbps
