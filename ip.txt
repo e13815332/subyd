@@ -16,7 +16,6 @@
 59.125.73.107:443#TW3-Data Communication Business Group 188.37 Mbps
 151.242.224.43:443#TW4-Tomorin Network, LLC 185.79 Mbps
 35.201.155.121:443#TW5-Google LLC 184.58 Mbps
-3.39.49.84:443#KR1-Amazon.com, Inc. 280.23 Mbps
 3.39.251.238:443#KR2-Amazon.com, Inc. 277.38 Mbps
 54.180.233.241:443#KR3-Amazon.com, Inc. 272.24 Mbps
 52.78.176.30:443#KR4-Amazon.com, Inc. 255.70 Mbps
