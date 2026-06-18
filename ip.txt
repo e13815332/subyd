@@ -13,7 +13,6 @@
 52.192.221.116:443#JP4-Amazon.com, Inc. 255.92 Mbps
 82.40.32.92:443#JP5-Prime Security Corp. 255.91 Mbps
 60.249.12.29:443#TW1-Data Communication Business Group 218.55 Mbps
-104.199.207.198:443#TW2-Google LLC 191.64 Mbps
 59.125.73.107:443#TW3-Data Communication Business Group 188.37 Mbps
 151.242.224.43:443#TW4-Tomorin Network, LLC 185.79 Mbps
 35.201.155.121:443#TW5-Google LLC 184.58 Mbps
