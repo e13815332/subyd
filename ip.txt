@@ -6,7 +6,6 @@
 43.159.4.80:443#SG1-Tencent Building, Kejizhongyi Avenue 270.25 Mbps
 38.207.132.249:443#SG2-XNNET LLC 189.77 Mbps
 185.194.54.137:443#SG3-xTom Pty Ltd 188.38 Mbps
-13.212.52.32:443#SG4-Amazon.com, Inc. 185.67 Mbps
 43.160.208.218:443#SG5-Tencent Building, Kejizhongyi Avenue 183.60 Mbps
 139.162.70.21:443#JP2-Akamai Connected Cloud 271.34 Mbps
 103.117.103.29:443#JP3-DMIT Cloud Services 261.50 Mbps
