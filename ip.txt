@@ -1,28 +1,38 @@
 1.1.1.1:443#移动专用三网自测
-103.224.80.116:443#HK2-XNNET LLC 225.96 Mbps
-18.163.218.170:443#HK3-Amazon.com, Inc. 219.49 Mbps
-82.158.91.108:443#HK4-cognetcloud INC 212.53 Mbps
-43.159.12.248:443#SG1-Tencent Building, Kejizhongyi Avenue 309.93 Mbps
-47.79.145.54:443#JP2-Alibaba (US) Technology Co., Ltd. 250.42 Mbps
-45.192.196.169:443#JP3-ACCK LLC 245.03 Mbps
-45.192.199.197:443#JP5-ACCK LLC 226.98 Mbps
-211.75.210.33:443#TW1-Data Communication Business Group 175.88 Mbps
-60.249.21.30:443#TW2-Data Communication Business Group 175.42 Mbps
-60.249.21.29:443#TW3-Data Communication Business Group 168.93 Mbps
-211.75.210.32:443#TW4-Data Communication Business Group 161.85 Mbps
-140.235.39.192:443#TW5-ByteVirt LLC 137.26 Mbps
-54.180.233.241:443#KR1-Amazon.com, Inc. 269.29 Mbps
-168.107.1.207:443#KR2-Oracle Corporation 168.63 Mbps
-43.164.191.51:443#KR3-Tencent Building, Kejizhongyi Avenue 159.30 Mbps
-152.69.229.110:443#KR4-Oracle Corporation 150.71 Mbps
-154.12.188.247:443#US1-DMIT Cloud Services 227.37 Mbps
-103.135.250.218:443#US2-DMIT Cloud Services 213.39 Mbps
-47.93.236.249:443#US4-Hangzhou Alibaba Advertising Co.,Ltd. 171.72 Mbps
-47.93.235.180:443#US5-Hangzhou Alibaba Advertising Co.,Ltd. 160.72 Mbps
-31.25.88.11:443#DE1-Kirino LLC 143.44 Mbps
-31.25.89.134:443#DE2-Kirino LLC 142.24 Mbps
-31.25.88.206:443#DE3-Kirino LLC 141.31 Mbps
-178.22.26.54:443#DE4-xTom GmbH 137.10 Mbps
-64.118.159.55:443#DE5-Eons Data Communications Limited 136.13 Mbps
+154.12.188.114:443#HK1-DMIT Cloud Services 289.46 Mbps
+47.76.102.47:443#HK2-Alibaba (US) Technology Co., Ltd. 275.34 Mbps
+45.78.37.81:443#HK3-IT7 Networks Inc 266.41 Mbps
+202.85.76.73:443#HK4-PAN-LIAN TECHNOLOGY CO., LIMITED 264.31 Mbps
+45.78.44.248:443#HK5-IT7 Networks Inc 263.27 Mbps
+43.159.4.80:443#SG1-Tencent Building, Kejizhongyi Avenue 270.25 Mbps
+38.207.132.249:443#SG2-XNNET LLC 189.77 Mbps
+185.194.54.137:443#SG3-xTom Pty Ltd 188.38 Mbps
+13.212.52.32:443#SG4-Amazon.com, Inc. 185.67 Mbps
+43.160.208.218:443#SG5-Tencent Building, Kejizhongyi Avenue 183.60 Mbps
+106.14.157.106:443#JP1-Hangzhou Alibaba Advertising Co.,Ltd. 384.94 Mbps
+139.162.70.21:443#JP2-Akamai Connected Cloud 271.34 Mbps
+103.117.103.29:443#JP3-DMIT Cloud Services 261.50 Mbps
+52.192.221.116:443#JP4-Amazon.com, Inc. 255.92 Mbps
+82.40.32.92:443#JP5-Prime Security Corp. 255.91 Mbps
+60.249.12.29:443#TW1-Data Communication Business Group 218.55 Mbps
+104.199.207.198:443#TW2-Google LLC 191.64 Mbps
+59.125.73.107:443#TW3-Data Communication Business Group 188.37 Mbps
+151.242.224.43:443#TW4-Tomorin Network, LLC 185.79 Mbps
+35.201.155.121:443#TW5-Google LLC 184.58 Mbps
+3.39.49.84:443#KR1-Amazon.com, Inc. 280.23 Mbps
+3.39.251.238:443#KR2-Amazon.com, Inc. 277.38 Mbps
+54.180.233.241:443#KR3-Amazon.com, Inc. 272.24 Mbps
+52.78.176.30:443#KR4-Amazon.com, Inc. 255.70 Mbps
+3.37.233.90:443#KR5-Amazon.com, Inc. 253.14 Mbps
+35.186.236.65:443#US1-Google LLC 319.85 Mbps
+43.169.19.179:443#US2-ACE 202.08 Mbps
+15.197.162.87:443#US3-Amazon.com, Inc. 185.20 Mbps
+75.2.58.141:443#US4-Amazon.com, Inc. 180.37 Mbps
+166.117.184.30:443#US5-Amazon.com, Inc. 177.89 Mbps
+31.25.88.11:443#DE1-Kirino LLC 155.87 Mbps
+31.25.88.206:443#DE2-Kirino LLC 151.92 Mbps
+31.25.89.134:443#DE3-Kirino LLC 142.00 Mbps
+45.80.188.172:443#DE4-xTom GmbH 140.76 Mbps
+64.118.159.247:443#DE5-Eons Data Communications Limited 136.82 Mbps
 saas.sin.fan:443#MIYU
 youxuan.cf.090227.xyz:443#CMLiu
