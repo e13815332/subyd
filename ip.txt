@@ -1,6 +1,5 @@
 1.1.1.1:443#移动专用三网自测
 154.12.188.114:443#HK1-DMIT Cloud Services 289.46 Mbps
-47.76.102.47:443#HK2-Alibaba (US) Technology Co., Ltd. 275.34 Mbps
 45.78.37.81:443#HK3-IT7 Networks Inc 266.41 Mbps
 202.85.76.73:443#HK4-PAN-LIAN TECHNOLOGY CO., LIMITED 264.31 Mbps
 45.78.44.248:443#HK5-IT7 Networks Inc 263.27 Mbps
