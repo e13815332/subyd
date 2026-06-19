@@ -7,7 +7,6 @@
 106.15.124.10:443#US4-Hangzhou Alibaba Advertising Co.,Ltd. 134.30 Mbps
 101.132.167.190:443#US5-Hangzhou Alibaba Advertising Co.,Ltd. 132.79 Mbps
 31.25.89.134:443#DE1-Kirino LLC 155.57 Mbps
-31.25.88.206:443#DE2-Kirino LLC 153.95 Mbps
 31.25.88.11:443#DE3-Kirino LLC 145.52 Mbps
 188.95.70.102:443#DE4-xTom GmbH 126.95 Mbps
 178.22.26.54:443#DE5-xTom GmbH 125.71 Mbps
