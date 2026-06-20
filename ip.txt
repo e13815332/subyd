@@ -1,6 +1,5 @@
 1.1.1.1:443#移动专用三网自测
 18.163.218.170:443#HK4-Amazon.com, Inc. 253.94 Mbps
-91.229.132.58:443#HK5-AkileCloud Network 251.28 Mbps
 43.159.4.80:443#SG1-Tencent Building, Kejizhongyi Avenue 240.52 Mbps
 185.194.54.137:443#SG2-xTom Pty Ltd 214.89 Mbps
 54.254.252.133:443#SG3-Amazon.com, Inc. 198.74 Mbps
