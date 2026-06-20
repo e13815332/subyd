@@ -1,6 +1,5 @@
 1.1.1.1:443#移动专用三网自测
 207.57.134.2:443#HK1-LUCIDACLOUD LIMITED 275.36 Mbps
-34.96.164.119:443#HK2-Google LLC 263.57 Mbps
 18.163.218.170:443#HK4-Amazon.com, Inc. 253.94 Mbps
 91.229.132.58:443#HK5-AkileCloud Network 251.28 Mbps
 43.159.4.80:443#SG1-Tencent Building, Kejizhongyi Avenue 240.52 Mbps
