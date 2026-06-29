@@ -1,1 +1,1 @@
-{"id": "20260611", "message": "激活服务器已迁移至 Cloudflare，v1.5.8 以前版本将无法激活。请尽快升级：https://github.com/e13815332/subyd/releases/tag/zclash"}
+{"id":"20260629","message":"胡说哥是真牛逼"}
