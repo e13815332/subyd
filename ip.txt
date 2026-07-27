@@ -26,6 +26,5 @@
 45.80.188.163:443#DE5-xTom 128.88 Mbps
 101.132.101.109:443#CN1-Alibaba 239.10 Mbps
 120.55.161.193:443#CN2-Alibaba 225.77 Mbps
-8.137.145.117:443#CN3-Alibaba 104.46 Mbps
 saas.sin.fan:443#MIYU
 youxuan.cf.090227.xyz:443#CMLiu
