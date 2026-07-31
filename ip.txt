@@ -22,6 +22,5 @@
 64.118.159.219:443#DE2-Eons 132.14 Mbps by醋
 216.236.31.135:443#DE3-Eons 131.19 Mbps by醋
 45.147.49.247:443#DE4-xTom 130.92 Mbps by醋
-64.118.159.70:443#DE5-Eons 126.90 Mbps by醋
 saas.sin.fan:443#MIYU by醋
 youxuan.cf.090227.xyz:443#CMLiu by醋
