@@ -13,7 +13,6 @@
 8.133.163.194:443#JP3-Alibaba 136.11 Mbps by醋
 45.89.235.243:443#JP4-xTom 133.45 Mbps by醋
 179.253.252.80:443#JP5-DMIT 106.28 Mbps by醋
-47.57.5.30:443#US1-Alibaba 174.65 Mbps by醋
 47.75.114.194:443#US2-Alibaba 174.26 Mbps by醋
 47.75.111.178:443#US3-Alibaba 173.21 Mbps by醋
 47.75.104.254:443#US4-Alibaba 172.71 Mbps by醋
