@@ -23,4 +23,3 @@
 8.134.80.111:443#DE2-Alibaba 151.84 Mbps by醋
 31.25.88.11:443#DE3-Kirino 144.99 Mbps by醋
 82.115.30.30:443#DE4-Kirino 142.43 Mbps by醋
-139.196.87.224:443#CN1-Alibaba 112.25 Mbps by醋
