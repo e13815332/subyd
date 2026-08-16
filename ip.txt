@@ -24,3 +24,5 @@
 45.147.48.93:443#DE3-xTom 126.61 Mbps by醋
 188.95.70.156:443#DE4-xTom 125.68 Mbps by醋
 45.147.48.147:443#DE5-xTom 122.49 Mbps by醋
+www.tpg.com:443#SG优选域名1哄哄提供 by醋
+woodsbagot.com:443#SG优选域名2哄哄提供 by醋
