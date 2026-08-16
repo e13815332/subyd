@@ -20,3 +20,5 @@
 64.118.159.219:443#DE1-Eons 137.51 Mbps by醋
 82.115.30.30:443#DE3-Kirino 135.60 Mbps by醋
 216.236.31.135:443#DE4-Eons 132.80 Mbps by醋
+www.tpg.com:443#SG优选域名1哄哄提供 by醋
+woodsbagot.com:443#SG优选域名2哄哄提供 by醋
