@@ -11,7 +11,6 @@
 101.69.181.108:443#US3-CHINA by醋
 47.99.164.61:443#US4-Alibaba by醋
 121.40.39.41:443#US5-Alibaba by醋
-207.57.143.131:443#US6-Zont by醋
 8.136.113.156:443#US7-Alibaba by醋
 31.25.88.11:443#DE1-Kirino by醋
 31.25.88.21:14239#DE2-Kirino by醋
